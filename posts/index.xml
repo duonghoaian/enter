@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Main-page</title>
+    <link>https://duonghoaian.github.io/enter/posts/</link>
+    <description>Recent content in Posts on Main-page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://duonghoaian.github.io/enter/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cctv Surveillance Systems - VMS - PSIM</title>
+      <link>https://duonghoaian.github.io/enter/posts/introduction/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://duonghoaian.github.io/enter/posts/introduction/</guid>
+      <description>&lt;p&gt;AxxonSoft is a leading developer of Video Management and Physical Security Information Management software. Since 2003, the company has been creating disruptive technologies that push the Safety &amp;amp; Security industry forward.&lt;/p&gt;
+&lt;p&gt;AxxonSoft’s unique strengths are Smart Forensic Search in recorded video, TimeCompressor video synopsis technology, and customizable video analytics powered by Artificial Intelligence. To meet the needs of a particular facility, AxxonSoft AI neural network learns to perform customer-specific tasks from video material obtained onsite.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IPTV Project</title>
+      <link>https://duonghoaian.github.io/enter/posts/what-is-hugo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://duonghoaian.github.io/enter/posts/what-is-hugo/</guid>
+      <description>&lt;p&gt;MVI’s hospitality IPTV solutions offer customisable interactive features that meet guests’ information and entertainment needs. We deployed in more than 60,000 rooms over the Worlds for many many 5 stars hotel and resort.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
